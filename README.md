@@ -30,20 +30,6 @@ Atuar como **Desenvolvedor Web**, contribuindo com projetos que unam criatividad
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Milesdev275&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milesdev275&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-
-</div>
-
----
-
 ## 🚀 Atualmente
 
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas**
