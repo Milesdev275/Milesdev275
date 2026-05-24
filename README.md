@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Milesdev275/Milesdev275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Lucas%20Souto%20Silva&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Milesdev275%20•%20Desenvolvedor%20em%20Formação&descAlignY=58&descColor=8b949e" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Lucas Souto Silva**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução. Busco construir soluções práticas e eficientes, aplicando boas práticas de desenvolvimento desde o início da minha jornada na área de TI.
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Desenvolvedor Web**, contribuindo com projetos que unam criatividade e lógica. Tenho foco em evoluir continuamente minhas habilidades técnicas, colaborar em equipe e agregar valor real aos produtos que desenvolvo.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Milesdev275&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milesdev275&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
+
+</div>
+
+---
+
+## 🚀 Atualmente
+
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Desenvolvendo projetos com **HTML, CSS e JavaScript**
+- 🐍 Aprofundando conhecimentos em **Python**
+- 📈 Sempre aprendendo algo novo na área de tecnologia
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Milesdev275-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milesdev275)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+
+</div>
