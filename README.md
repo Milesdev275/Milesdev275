@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Lucas%20Souto%20Silva&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Milesdev275%20•%20Desenvolvedor%20em%20Formação&descAlignY=58&descColor=8b949e" />
+<img src="https://raw.githubusercontent.com/Milesdev275/Milesdev275/main/banner2.svg" width="100%"/>
 
 </div>
 
