@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Milesdev275/Milesdev275/main/banner.svg" width="100%"/>
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
 
 </div>
 
