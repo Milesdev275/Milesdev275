@@ -44,6 +44,7 @@ Atuar como **Desenvolvedor Web**, contribuindo com projetos que unam criatividad
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Milesdev275-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milesdev275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Souto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souto-ba314b183/)
 
 </div>
 
