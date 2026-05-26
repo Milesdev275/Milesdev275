@@ -8,7 +8,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Lucas Souto Silva**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução. Busco construir soluções práticas e eficientes, aplicando boas práticas de desenvolvimento desde o início da minha jornada na área de TI.
+Fala! Sou o Lucas, tenho 28 anos e tô no meio dessa jornada incrível que é a área de TI.
+Curso Análise e Desenvolvimento de Sistemas e cada dia que passa tenho mais certeza que é isso que quero pra minha vida.
+Gosto de transformar ideias em código, resolver problemas e criar coisas que façam sentido de verdade.
+Ainda tô construindo minha base, mas com muita vontade de evoluir e deixar minha marca por aí. 🚀
 
 ---
 
